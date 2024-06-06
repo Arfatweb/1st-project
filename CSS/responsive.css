@@ -1,0 +1,67 @@
+/* XXL */
+@media (max-width:1400px) {
+    
+}
+
+/* XL */
+@media (min-width:1200px) and (max-width:1399.99px){
+  
+   
+    #experience .address::after{
+        content: '';
+        left: 469px !important;
+        top: -18px;
+    }
+    
+    #experience .address::before{
+        content: '';
+        left: 463px !important;
+        top: -24px;
+    
+    }
+    
+    
+    #experience .addressTwo .address::after{
+        content: '';
+        left: 544px;
+        top: -18px;
+    }
+    
+    #experience .addressTwo .address::before{
+        content: '';
+        left: 538px;
+        top: -24px;
+    }
+    
+    #experience .addressThree .address::after{
+        content: '';
+        left: 544px;
+        top: -18px;
+    }
+    
+    #experience .addressThree .address::before{
+        content: '';
+        left: 538px;
+        top: -24px;
+    }
+}
+
+/* LG */
+@media (min-width:992px) and (max-width:1199.99px){
+    
+}
+
+/* md */
+@media (min-width:768px) and (max-width:991.99px){
+    
+}
+
+/* sm */
+@media (min-width:576px) and (max-width:767.99px){
+    
+}
+
+/* xs */
+@media (max-width:575.99px){
+    
+}
